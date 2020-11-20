@@ -1,0 +1,62 @@
+.title {
+    background-color: rgb(2, 22, 49);
+    height: 70px;
+}
+
+#h1-title {
+    color: rgb(79, 91, 102);
+    padding: 10px;
+}
+
+.jumbotron-bg {
+    background-image: url("/img/banner.bmp");
+    background-size: cover;
+    background-position: bottom;
+    height: 35vh;
+    margin-bottom: 0;
+}
+
+.navbar {
+    margin-bottom: 30px;
+    background-color: #E6EAF4;
+}
+
+.ui-menu {
+    z-index: 1030 !important;
+}
+
+.poster {
+    height: 450px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.jumbotron-footer {
+    background-image: url("/img/site-background.bmp");
+    background-size: cover;
+    background-position: bottom;
+    height: 30vh;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.copyright {
+    background-color: rgb(0, 0, 27);
+    padding: 15px;
+}
+
+form {
+    padding-left: 25px;
+}
+
+#content {
+    padding: 60px;
+}
+
+#contact-form {
+    text-align: start;
+}
+
+#contact {
+    margin-top: 10px;
+}
